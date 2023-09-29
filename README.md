@@ -10,4 +10,8 @@
 ## DAY-2
 - Datatypes and sizes
 - some problems on matrices and strings
-  
+##DAY-3
+-Bit Manupulation
+-Logical Operators
+-Recursion
+
