@@ -13,7 +13,7 @@
 - some problems on matrices and strings
   
 ## DAY-3
--Bit Manupulation
--Logical Operators
--Recursion
+- Bit Manupulation
+- Logical Operators
+- Recursion
 
