@@ -1,0 +1,17 @@
+Masters theorem is used to calculate the time complexity of the recursive functions.
+The TC of the program is given by
+T(n) = a.T(n/b) + f(n)
+where a -> the no. of recursive calls
+and b-> gives the factor by which the problem is dividing into sub problems
+f(n)-> the work done outside the recursion
+
+
+EX:-In merge sort,  b ='2' i.e, each level the tree gets divided into 2 sub problems
+Height of the tree is given by b and the width or number of nodes at each level is given by a.
+
+
+CASE-1:
+    f(n) = O(n^log(b,a)-e).log(k,n) T(n) = O(n^log(b,a))
+    where e ~=0
+CASE-2:
+    f(n) = Theta(n^(log(a,b).log())
