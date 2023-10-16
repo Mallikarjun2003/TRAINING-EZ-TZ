@@ -17,5 +17,10 @@
 - Logical Operators
 - Recursion
 ## DAY-4
-Python Crash Course (from beginning to Advanced OOPC and introduction to Data Structures)
+- Python Crash Course (from beginning to Advanced OOPC and introduction to Data Structures)
+## DAY-5
+- 
+## DAY-16
+- LinkedLists and related problems(reversing the list ,removing the middle element and finding the decimal of the binary )
+
 
